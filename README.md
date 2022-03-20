@@ -1,7 +1,7 @@
 # data-structures-algorithms-swift
 
 ## Time Complexity
-Time complexity is a measuere of time required to run an algorithms as the inpu size incereases.
+Time complexity is a measuere of time required to run an algorithms as the input size incereases.
 
 ## Big O notation 
 Big O notation to represent various magnitudes of time complexity
@@ -17,6 +17,12 @@ Big O notation to represent various magnitudes of time complexity
 - Array
 - Set 
 - Dictionary
+
+### Key Points
+- Order 
+- Random access 
+- Array performance 
+- Insert Location
 
 Functions such as "insert" for array hava performance characteristics that can be cripple
 performance when used hehazzardly. If you finding yourself need to use "insert" frequently
